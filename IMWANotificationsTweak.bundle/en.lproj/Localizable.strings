@@ -9,8 +9,7 @@
 
 "SETTING_SECTION_FOOTER_TEXT" = "Options added by IMWANotifications";
 "SETTINGS_VC_SUBTITLE" = "Enable WhatsApp Notifications for Sideloaded Versions by @iMokhles";
-
 "SETTINGS_ENABLE_SWITCH_TITLE" = "Enable Tweak";
-
+"SETTINGS_TWEET_BUTTON_SEND" = "Tweet to remove Ads";
 "TWITTER_ALERT_BUTTON_CANCEL" = "Cancel";
 "TWITTER_ALERT_BUTTON_SEND" = "Tweet";

@@ -8,7 +8,15 @@ enable Notifications for Sideloaded WhatsApp ( plus or any modified version ) su
 
 #### for beginners
 
-use insert_dylib or optool
+* add whatsapp.ipa inside files folder ( with and name it whatsapp.ipa )
+* open terminal and type chmod +x 
+* then press SPACE
+* drag and drop iminser_dylib.sh to terminal
+* press ENTER
+* and now drag and drop iminser_dylib.sh again to terminal
+* press ENTER again and wait till it finish
+* you can fin the output ipa inside files_out folder
+
 
 ### for pro
 

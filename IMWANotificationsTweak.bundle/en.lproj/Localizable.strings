@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  IMWANotifications
+
+  Created by iMokhles on 9/01/17.
+  Copyright (c) 2017 iMokhles. All rights reserved.
+*/
+
+
+"SETTING_SECTION_FOOTER_TEXT" = "Options added by IMWANotifications";
+"SETTINGS_VC_SUBTITLE" = "Enable WhatsApp Notifications for Sideloaded Versions by @iMokhles";
+
+"SETTINGS_ENABLE_SWITCH_TITLE" = "Enable Tweak";
+
+"TWITTER_ALERT_BUTTON_CANCEL" = "Cancel";
+"TWITTER_ALERT_BUTTON_SEND" = "Tweet";
